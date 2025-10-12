@@ -143,3 +143,6 @@ data/img/*
 
 # uv
 uv.lock
+
+# Other stuff from TC
+rl_assignments/
