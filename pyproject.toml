@@ -33,3 +33,8 @@ dependencies = [
 
 [tool.uv.sources]
 fklearn = { git = "https://github.com/nubank/fklearn.git" }
+
+[dependency-groups]
+dev = [
+    "jupyter-client>=8.6.3",
+]
